@@ -34,9 +34,9 @@ com a suas dimenções, por exemplo,```[0][0],[0][1],[0][2] | [1][0],[1][1],[1][
 
 ### **Como declarar uma matriz em Java**
 ```java
-int[][] matriz = new int[3][3];
+int[][] matriz = new int[3][3]; || int[][] matriz = {{1, 2},{3, 4}};
 ``` 
 Observe que primeiro declaro o tipo de dado, depois o nome da minha matriz e depois como já mencionado defino o seu tamanho.
 
 ___
-### Agora siga o <u>vetores_matrizes/Main</u>  
+### Agora siga os exemplos de código presente em <u>/vetores_matrizes</u>  
