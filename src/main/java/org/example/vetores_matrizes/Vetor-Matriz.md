@@ -22,7 +22,7 @@ possui
 
 ### **Como declarar um vetor em Java** 
 ```java
-int[] vetor = new int[10];
+int[] vetor = new int[10]; || int[] vetor = {1, 2, 3};
 ``` 
 Observe que primeiro declaro o tipo de dado, depois o nome do meu vetor e depois como já mencionado defino o seu tamanho. 
 ___
